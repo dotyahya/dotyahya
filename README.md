@@ -26,7 +26,7 @@ Aspiring **AI/ML Engineer** with a passion for AI, machine learning, and natural
 
 ---
 
-Feel free to reach out and connect to me! 😉
+Feel free to reach out and connect! 😉
 
 <!---
 dotyahya/dotyahya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
