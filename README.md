@@ -5,7 +5,7 @@ Aspiring **AI/ML Engineer** with a passion for AI, machine learning, and natural
 ## 🚀 Current Endeavors
 - Part of the **UrduX Summer Internship** program
 - Working on exciting projects leveraging cutting-edge AI technologies
-- Delving into chatbot development and exploring innovative solutions for domestic violence support and awareness
+- Understanding chatbot development and exploring innovative solutions for domestic violence support and awareness
 
 ## 💻 Technical Toolkit
 - **Languages:** Python, C++, C, Bash
