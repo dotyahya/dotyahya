@@ -1,15 +1,11 @@
 # 👋🏼 Hi there! I'm Muhammad Yahya
 
-Aspiring **AI/ML Engineer** with a passion for AI, machine learning, and natural language processing.
-
-## 🚀 Current Endeavors
-- Part of the **UrduX Summer Internship** program
-- Working on exciting projects leveraging cutting-edge AI technologies
-- Understanding chatbot development and exploring innovative solutions for domestic violence support and awareness
+Final Year Undergraduate Student Majoring in Computer Science possessing a keen interest in the realms of Applied AI, Blockchain & Cryptocurrencies and somewhat Computer Networks.
+Currently working on the final year project that focuses on the domain of MLOPs. Trying to research on ways to proactively detect concept drift in Supply chain/E-commerce data so that the ML models don't lose their accuracy and deteriorate. 
 
 ## 💻 Technical Toolkit
-- **Languages:** Python, C++, C, Bash
-- **Frameworks & Tools:** Streamlit, LangChain, Transformers, OpenCV, PyTorch, TensorFlow 
+- **Languages:** Python, C++, C, Bash, Go, SQL
+- **Frameworks & Tools:** Streamlit, LangChain, OpenCV, TensorFlow, Docker, Node.js, Postman, RESTful APIs 
 - Enjoy tackling complex problems and transforming ideas into functional and impactful applications
 
 ## 🌐 Interests
@@ -22,7 +18,6 @@ Aspiring **AI/ML Engineer** with a passion for AI, machine learning, and natural
 
 ## 🔭 Let's Connect!
 - Always on the lookout for new challenges and opportunities to expand my knowledge and skills
-- Let's explore the endless possibilities of technology together!
 
 ---
 
